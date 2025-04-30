@@ -1,24 +1,26 @@
 <img src="https://avatars.githubusercontent.com/u/56885001?s=200&v=4" alt="logo" width="130" height="130" align="right"/>
+V2Board
+PHP 7.3+
 
-# **V2Board**
+Composer
 
-- PHP7.3+
-- Composer
-- MySQL5.5+
-- Redis
-- Laravel
+MySQL 5.5+
 
-## Demo
-[Demo](https://demo.v2board.com)
+Redis
 
-## Document
-[Click](https://v2board.com)
+Laravel
 
-## Sponsors
-Thanks to the open source project license provided by [Jetbrains](https://www.jetbrains.com/)
+演示环境
+在线演示
 
-## Community
-🔔Telegram Channel: [@v2board](https://t.me/v2board)  
+文档
+查看文档
 
-## How to Feedback
-Follow the template in the issue to submit your question correctly, and we will have someone follow up with you.
+赞助商
+感谢 Jetbrains 提供的开源项目许可证
+
+社区
+🔔官方 Telegram 频道: @v2board
+
+问题反馈
+请按照 issue 模板规范提交问题，我们将安排专人跟进。
